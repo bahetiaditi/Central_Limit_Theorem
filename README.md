@@ -11,7 +11,7 @@ The Titanic dataset contains information about passengers on the Titanic. For th
 ## Original Fare Distribution
 The KDE plot below shows the original distribution of the `Fare` feature. It is heavily right-skewed, meaning most passengers paid relatively low fares, while a few paid much higher amounts. This distribution is clearly **non-normal**.
 
-![KDE Plot of Original Fare Distribution](file-5YetnEMahcYliEcJLiFqyTtd)
+![KDE Plot of Original Fare Distribution](Images/KDE_Fare_Dist.png)
 
 ## Sampling Distribution of Means
 According to the Central Limit Theorem, if we repeatedly take random samples from a population and calculate their means, the distribution of these means will approximate a **normal distribution**. 
