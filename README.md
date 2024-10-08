@@ -18,14 +18,14 @@ According to the Central Limit Theorem, if we repeatedly take random samples fro
 
 For this study, we took 100 random samples of size 50 from the `Fare` column and calculated their means. The plot below compares the **sampling distribution of means** (green line) with the original fare distribution (blue dashed line).
 
-![Sampling Distribution of Means vs Original Fare Distribution](file-1algz5PboBOubbXwKYTUywq6)
+![Sampling Distribution of Means vs Original Fare Distribution](images/Sampling_Dist_of_Means.png)
 
 As shown, the distribution of sample means is narrower and approximates a **normal distribution**, even though the original data is skewed.
 
 ## Histogram of Sample Means
 To visualize the Central Limit Theorem further, we plotted a histogram of the sample means. As seen below, the distribution of the sample means is approximately normal and centered around the population mean.
 
-![Histogram of Sample Means](file-HsxDiwgQTGvpVpmzGKYqK0jU)
+![Histogram of Sample Means](images/Histogram_Sample_Means.png)
 
 ## Statistical Insights
 From the sampling distribution, we calculated key statistics:
@@ -36,7 +36,7 @@ From the sampling distribution, we calculated key statistics:
 ## Confidence Interval Visualization
 In the plot below, we visualize the 95% confidence interval for the mean fare, showing the lower and upper bounds with vertical lines (red and purple, respectively). This highlights the range where we expect the true population mean to fall.
 
-![Sampling Distribution with Confidence Interval](file-fsUEnMmdBO8uEwOlUPkJJgTE)
+![Sampling Distribution with Confidence Interval](images/Samp_Dist_with_Confidence_Int.png)
 
 ## Discussion and Conclusion
 The results of this case study reinforce the Central Limit Theorem:
